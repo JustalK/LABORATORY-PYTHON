@@ -1,0 +1,10 @@
+ta='Whatever'
+print(len(ta))
+print(ta.index('e'))
+print(ta.count('e'))
+print(ta[2:4])
+print(ta[-5:-2])
+print(ta[::-1])
+print(ta.upper())
+print(ta.lower())
+print(ta.split('e'))
